@@ -9,4 +9,4 @@
 
   
   
-  ![Snake animation](https://github.com/monicacsz/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/monicacsz/monicacsz/blob/output/github-contribution-grid-snake.svg)
